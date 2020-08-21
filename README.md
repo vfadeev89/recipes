@@ -1,9 +1,9 @@
 # 1,000,000 recipes app
 
-### Github page
+### Github pages
 https://vfadeev89.github.io/recipes/dist/
 
-### Running
+### Local running
 
 ```sh
 npm run start
