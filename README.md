@@ -3,7 +3,7 @@
 ### Github pages
 https://vfadeev89.github.io/recipes/dist/
 
-### Local running
+### If you want to run it locally
 
 ```sh
 npm run start
