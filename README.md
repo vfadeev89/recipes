@@ -1,14 +1,14 @@
 # 1,000,000 recipes app
 
-### Github pages
+#### Github pages
 https://vfadeev89.github.io/recipes/dist/
 
-### If you want to run it locally
+#### If you want to run it locally
 
 ```sh
 npm run start
 ```
 
-### Screenshot
+#### Screenshot
 
 ![](./thumbnail.png)
