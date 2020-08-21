@@ -1,0 +1,45 @@
+{
+    "name": "recipes",
+    "version": "1.0.0",
+    "description": "recipes project",
+    "main": "index.js",
+    "scripts": {
+        "dev": "webpack --mode development",
+        "build": "webpack --mode production",
+        "start": "webpack-dev-server --mode development --open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vfadeev89/recipes.git"
+    },
+    "author": "Vasilii Fadeev",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vfadeev89/recipes/issues"
+    },
+    "homepage": "https://github.com/vfadeev89/recipes#readme",
+    "devDependencies": {
+        "eslint": "^7.2.0",
+        "eslint-config-airbnb": "^18.2.0",
+        "eslint-config-prettier": "^6.11.0",
+        "eslint-plugin-import": "^2.22.0",
+        "eslint-plugin-jsx-a11y": "^6.3.1",
+        "eslint-plugin-prettier": "^3.1.4",
+        "eslint-plugin-react": "^7.20.6",
+        "eslint-plugin-react-hooks": "^4.0.0",
+        "prettier": "^2.0.5",
+        "@babel/core": "^7.4.4",
+        "@babel/preset-env": "^7.4.4",
+        "babel-loader": "^8.0.6",
+        "html-webpack-plugin": "^3.2.0",
+        "webpack": "^4.31.0",
+        "webpack-cli": "^3.3.2",
+        "webpack-dev-server": "^3.3.1"
+    },
+    "dependencies": {
+        "@babel/polyfill": "^7.4.4",
+        "axios": "^0.18.0",
+        "fractional": "^1.0.0",
+        "uniqid": "^5.0.3"
+    }
+}
